@@ -26,3 +26,5 @@ Install required libraries:
 
 ```bash
 pip install opencv-python pillow transformers torch
+pip install opencv-python
+
